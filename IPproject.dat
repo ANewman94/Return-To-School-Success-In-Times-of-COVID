@@ -1,0 +1,5 @@
+param c:= 100; #number of classrooms
+param w:= 200; # number of windows
+param N:=2000; #number of students
+param B:=50000; #budget
+param reduceamount:=30; #minimum amount of exposure reduction desired
